@@ -1,0 +1,22 @@
+# Ignore files
+*.classpath
+*.project
+*.class
+*.DS_Store
+*.iml
+dependency-reduced-pom.xml
+
+# Ignore folders
+.settings/
+.metadata/
+.recommenders/
+.externalToolBuilders/
+bin/
+RemoteSystemsTempFiles/
+test-output/
+target/
+.idea/
+attachments/
+
+# Other
+*.orig
